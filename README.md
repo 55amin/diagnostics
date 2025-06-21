@@ -26,7 +26,7 @@ Run the script and select options from the menu:
 3. Common quick fixes
 4. Exit
 
-# Learning Project
+# Background
 This project was created as a Python refresher exercise and to learn a little more about:
 - Running Windows commands from Python
 - Working with the subprocess module

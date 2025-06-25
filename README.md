@@ -1,5 +1,5 @@
 # Windows Diagnostics Toolkit
-A lightweight command-line utility that simplifies running some common Windows diagnostic commands and provides quick access to troubleshooting steps, even though they're common sense to be honest.
+A lightweight command-line utility that simplifies running some common Windows diagnostic commands and provides quick access to troubleshooting steps.
 
 # Features
 *Network Diagnostics*
